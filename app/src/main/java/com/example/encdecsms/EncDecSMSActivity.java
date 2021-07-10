@@ -434,7 +434,7 @@ public class EncDecSMSActivity extends Activity {
 
 
 
-        // generate secret key from string
+        // generate secret key from string input
 
 
 
